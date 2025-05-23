@@ -2,6 +2,7 @@ Participantes: Azor Biagioni Tartuce RM 563995
 Gabriel Viana de Sousa RM 564382
 
 Link para simulação: https://wokwi.com/projects/431675152860634113
+Link do vídeo: https://github.com/cp2fiap/cp2-edge/tree/main/index.html
 
 🍷 Sistema de Monitoramento para Vinheria - Arduino
 📋 Descrição
